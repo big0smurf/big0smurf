@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @big0smurf
+- 👀 I’m interested in Security, Programming and DevOps
